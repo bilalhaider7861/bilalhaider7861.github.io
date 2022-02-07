@@ -4934,7 +4934,7 @@ textarea.form-control-lg {
 }
 
 .alert-primary {
-  color: #713822;
+  color: #044225;
   background-color: #f2dfd7;
   border-color: #ebcec3;
 }
@@ -5281,17 +5281,17 @@ textarea.form-control-lg {
 }
 
 .list-group-item-primary {
-  color: #713822;
+  color: #044225;
   background-color: #f2dfd7;
 }
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
-  color: #713822;
+  color: #044225;
   background-color: #dac9c2;
 }
 .list-group-item-primary.list-group-item-action.active {
   color: #fff;
-  background-color: #713822;
-  border-color: #713822;
+  background-color: #044225;
+  border-color: #044225;
 }
 
 .list-group-item-secondary {
